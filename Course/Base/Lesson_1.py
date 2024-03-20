@@ -1,0 +1,13 @@
+print('Hello world!')
+print('"Hello world!"')
+print("Hello '\"' world!")
+print('Hello "\\" world!')
+print("2 + 3")
+print(2 + 3)
+print("Hello, " + "Alex")
+print("Hello,", "Alex")
+print("Hello,", "Alex", "and Michael")
+print("Hello,", "Alex", "and Michael", sep="-")
+print("Hello,", "Alex", "and Michael", sep="")
+
+print("Hello,\nAlex")

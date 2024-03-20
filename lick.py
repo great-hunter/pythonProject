@@ -1,9 +1,9 @@
-import random
+from random import randint
 
 slave = "Вова"
 goddess = "Лилит"
 task = ["делать куни"]
-x = int(random.random() * 69)
+x = randint(0, 10)
 
 i = 0
 while i < x:
