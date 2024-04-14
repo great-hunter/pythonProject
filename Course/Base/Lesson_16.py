@@ -1,12 +1,12 @@
-#import random
-#import math as m
+# import random
+# import math as m
 from random import *
 from math import sin, cos
 import math, cmath as cm
 import calc
 
-#print(random.randint(0, 10))
-#print(m.sin(1))
+# print(random.randint(0, 10))
+# print(m.sin(1))
 print(randint(0, 10))
 print(sin(1))
 print(cos(1))
