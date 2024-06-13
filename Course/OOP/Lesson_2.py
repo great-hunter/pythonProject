@@ -4,8 +4,9 @@ class Point:
 
 
 p1 = Point()
-print(p1)
+# print(p1)
 print(p1.x, ';', p1.y)
+
 
 p1.x = 5
 p1.y = 7
